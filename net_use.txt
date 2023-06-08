@@ -1,0 +1,1 @@
+net use \\Mothra\PublicPackages\Software /user:(Get-Credential -Message "Login to MOTHRA") 
